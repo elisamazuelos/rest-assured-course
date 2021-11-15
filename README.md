@@ -1,6 +1,8 @@
 # Automating API tests with REST Assured
 
-Some examples on how to use REST Assured provided by the course: https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/
+Some examples on how to use REST Assured provided by the course: https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/ 
+
+Website used for examples: https://zippopotam.us/
 
 * Chapter 1: simple ``GET`` test that verifies the place given a certain zip code using ``body()`` and ``equalTo``.
 * Chapter 2: several ``GET`` tests with different assertions: ``statusCode``, ``contenType``, ``log``, ``hasItem`` and ``hasSize``.
