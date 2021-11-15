@@ -1,10 +1,8 @@
-import com.github.tomakehurst.wiremock.junit5.WireMockTest;
 import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
-@WireMockTest
 public class Chapter5Tests {
 
     @Test
