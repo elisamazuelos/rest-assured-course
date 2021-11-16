@@ -9,3 +9,4 @@ Website used for examples: https://zippopotam.us/
 * Chapter 3: a ``GET`` test using parameters with JUnit5's ``@ParameterizedTest``.
 * Chapter 4: some ``GET`` tests that use request and response specifications.
 * Chapter 5: previous tests made with XML bodies instead of JSON.
+* Chapter 6: turning responses to java objects.
