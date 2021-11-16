@@ -1,0 +1,14 @@
+{
+    "post code": "41008",
+    "country": "Spain",
+    "country abbreviation": "ES",
+    "places": [
+        {
+            "place name": "Sevilla",
+            "longitude": "1",
+            "state": "Andalucía",
+            "state abbreviation": "AND",
+            "latitude": "1"
+        }
+    ]
+}
